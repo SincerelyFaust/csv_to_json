@@ -5,7 +5,7 @@ A Dart script that generates a JSON file for each column inside the CSV file.
 ## Usage
 
 ```sh
-dart run lib/csv_localization_to_json.dart -i example/example_file.csv -o example
+dart run lib/csv_to_json.dart -i example/example_file.csv -o example
 ```
 
 ## Example
