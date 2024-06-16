@@ -1,4 +1,4 @@
-name: csv_localization_to_json
+name: csv_to_json
 description: A sample command-line application.
 version: 1.0.0
 

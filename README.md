@@ -1,6 +1,6 @@
-# csv_localized_to_json
+# csv_to_json
 
-A Dart script that generates a JSON file for each language inside the localization CSV file.
+A Dart script that generates a JSON file for each column inside the CSV file.
 
 ## Usage
 
